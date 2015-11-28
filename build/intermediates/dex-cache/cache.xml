@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/SeungHyun/Desktop/Project/2015-late/Korea 7st./MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/SeungHyun/Desktop/Project/2015-late/Korea 7st./MyApplication2/app/build/intermediates/pre-dexed/debug/classes-8b1d18785ea555d3f12b05387ed14bc63ef16bf2.jar" />
+    </item>
+    <item
+        jar="/Users/SeungHyun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/SeungHyun/Desktop/Project/2015-late/Korea 7st./MyApplication2/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-b1ab8a955de81b65c5abfd2c94b04f722dafcbe3.jar" />
+    </item>
+    <item
+        jar="/Users/SeungHyun/Desktop/Project/2015-late/Korea 7st./MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/SeungHyun/Desktop/Project/2015-late/Korea 7st./MyApplication2/app/build/intermediates/pre-dexed/debug/classes-56dbce7a94385a3057044d515a6efdeebd161ad6.jar" />
+    </item>
+    <item
+        jar="/Users/SeungHyun/Desktop/Project/2015-late/Korea 7st./MyApplication2/app/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6d3728cf62d53de7395707c000051735ea8c298c">
+        <dex dex="/Users/SeungHyun/Desktop/Project/2015-late/Korea 7st./MyApplication2/app/build/intermediates/pre-dexed/debug/classes-1eb7c1a05f12bbc578034f36e77b35fd2930447c.jar" />
+    </item>
+    <item
+        jar="/Users/SeungHyun/Desktop/Project/2015-late/Korea 7st./MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/SeungHyun/Desktop/Project/2015-late/Korea 7st./MyApplication2/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-3112b4b96858a8e36c48ba0855ea61ec931009c7.jar" />
+    </item>
+
+</items>
